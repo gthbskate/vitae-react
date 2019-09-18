@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d05368f.chunk.css",
+    "main.js": "/static/js/main.2039e41c.chunk.js",
+    "main.js.map": "/static/js/main.2039e41c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a2bf814e.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a2bf814e.js.map",
+    "static/js/2.13155437.chunk.js": "/static/js/2.13155437.chunk.js",
+    "static/js/2.13155437.chunk.js.map": "/static/js/2.13155437.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.327f8135a122c2474eba03dcda91a250.js": "/precache-manifest.327f8135a122c2474eba03dcda91a250.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8d05368f.chunk.css.map": "/static/css/main.8d05368f.chunk.css.map",
+    "static/media/angular-logo.png": "/static/media/angular-logo.7c728090.png",
+    "static/media/bootstrap-logo.png": "/static/media/bootstrap-logo.fc389ff9.png",
+    "static/media/brainbow-logo.png": "/static/media/brainbow-logo.e8afee72.png",
+    "static/media/git-logo.png": "/static/media/git-logo.1dbc248d.png",
+    "static/media/github-logo.png": "/static/media/github-logo.69208235.png",
+    "static/media/help-desk-icon-png-4.png": "/static/media/help-desk-icon-png-4.5b9669ed.png",
+    "static/media/html5-logo.png": "/static/media/html5-logo.fc1cd501.png",
+    "static/media/jquery-logo.png": "/static/media/jquery-logo.c74586cb.png",
+    "static/media/js-logo.png": "/static/media/js-logo.858f7b26.png",
+    "static/media/materialize-logo.png": "/static/media/materialize-logo.09a29c51.png",
+    "static/media/photo-perfil.png": "/static/media/photo-perfil.7e3571b9.png",
+    "static/media/principal.png": "/static/media/principal.b6a312e6.png",
+    "static/media/react-logo.png": "/static/media/react-logo.91aaf6ac.png",
+    "static/media/sass-logo.png": "/static/media/sass-logo.47ced4b2.png",
+    "static/media/scrum-logo.png": "/static/media/scrum-logo.8be80ee6.png",
+    "static/media/uiux-logo.png": "/static/media/uiux-logo.8ed90685.png",
+    "static/media/vue-logo.png": "/static/media/vue-logo.52b8491c.png",
+    "static/media/wordpress-logo.png": "/static/media/wordpress-logo.0e3e1631.png"
+  }
+}
